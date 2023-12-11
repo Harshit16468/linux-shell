@@ -6,8 +6,8 @@ It has some of the following features as of now:
 
 - Colourful shell display with username/hostname and current directory.
 - Can run some built-in commands such as `warp`, `peek` (With -a and -l flags).
-- Other Commands - `proclore` (≈ ps), `seek` (≈ find with -d and -f flags)
-- Stores `history` of upto 15, for all the sessions.
+- Other Commands - `proclore`, `seek` (with -d and -f flags)
+- Stores `pastevents` of upto 15, for all the sessions.
 - Error Handling
 - Can run both `background` and `foreground` processes. (For any other shell commands)
 - Multiple Command Execution in a single line using `;`.
